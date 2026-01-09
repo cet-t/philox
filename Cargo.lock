@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rng"
+name = "philoxnxm"
 version = "0.1.0"
